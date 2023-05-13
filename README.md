@@ -3,8 +3,8 @@ Just simple httpflood
 
 ## Install
 ```sh
-git clone https://github.com/LSD00/HTTP-Flood
-cd HTTP-Flood
+git clone https://github.com/SonuModder1/DDOSV5
+cd DDOSV5
 go mod init http 
 go get github.com/valyala/fasthttp
 go build 
